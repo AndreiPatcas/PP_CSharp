@@ -1,0 +1,7 @@
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\obj\Debug\Lab3PPCS.csprojAssemblyReference.cache
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\obj\Debug\Lab3PPCS.csproj.CoreCompileInputs.cache
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\bin\Debug\Lab3PPCS.exe.config
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\bin\Debug\Lab3PPCS.exe
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\bin\Debug\Lab3PPCS.pdb
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\obj\Debug\Lab3PPCS.exe
+C:\Users\Patcas\source\repos\Lab3PPCS\Lab3PPCS\obj\Debug\Lab3PPCS.pdb
